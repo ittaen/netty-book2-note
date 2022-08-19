@@ -16,6 +16,7 @@
         <module>message-pack</module>
         <module>protobuf</module>
         <module>proto-compile-sample</module>
+        <module>marshalling</module>
     </modules>
 
     <dependencies>
