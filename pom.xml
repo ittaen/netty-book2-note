@@ -12,6 +12,7 @@
         <module>java-io</module>
         <module>netty-quick-start</module>
         <module>netty-codec</module>
+        <module>netty-protocol</module>
     </modules>
 
 
